@@ -21,4 +21,6 @@ status register.
 10. Het display bestaat uit meerdere karakters, zodat de temperatuur in ´e ´en keer afgebeeld kan worden.
 11. Het display is een dot-matrix-display en geeft ook het verloop van de temperatuur over de afgelopen
 minuut grafisch weer.
-12. Met een drukknop is de uitlezing om te schakelen naar graden Fahrenheit en weer terug.
+12. Met een drukknop is de uitlezing om te schakelen naar graden Fahrenheit en weer terug.  
+
+![prototype image](./prototype.png)
